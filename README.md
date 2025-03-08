@@ -1,13 +1,10 @@
-# :bird: Pterodactyl-Theme-Autoinstaller
-
-
 
 ## Auto Install Thema Pterodactyl
 
 ## Command Install :
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/LuxzHost/Pterodactyl-Theme-Autoinstaller/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/DonXploit/Pterodactyl-Installer/main/install.sh)
 ```
 
 ## Fitur Tools :
@@ -29,8 +26,3 @@ bash <(curl -s https://raw.githubusercontent.com/LuxzHost/Pterodactyl-Theme-Auto
 |                  | 11      | :white_check_mark: |
 |                  | 12      | :white_check_mark: |
 
-_\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
-
-## Credits 
-- Recode By [ LUXZ ](https://github.com/LuxzHost)
-- Created by [ FOXSTORE ](https://github.com/Foxstoree)
